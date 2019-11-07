@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a7354e1a1a34593a293aa99ffc0e2ba62d8beede",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2019-11-07 14:00:41",
+    "files": 1,
+    "merge": false,
+    "message": "One more build again\n"
+  },
+  "remote": "https://github.com/ropensci/antiword",
+  "pkg": "antiword"
+}
