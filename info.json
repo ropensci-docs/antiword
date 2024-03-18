@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "a61919d7e729462fe7a3683268999ea7d79c2a39",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2024-01-18 19:24:13",
+    "files": 4,
+    "merge": false,
+    "message": "Drop 32-bit support, fix arm64\n"
+  },
+  "repo": "https://github.com/ropensci/antiword",
+  "pkg": "antiword"
+}
