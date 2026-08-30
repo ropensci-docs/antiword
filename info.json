@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "51441d45283512081c08010835b8002af79fe5e6",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-02-27T12:58:58Z",
+    "files": 1,
+    "merge": false,
+    "message": "Test winarm\n"
+  },
+  "repo": "https://github.com/ropensci/antiword",
+  "pkg": "antiword",
+  "time": "2026-08-30T07:27:59Z"
+}
